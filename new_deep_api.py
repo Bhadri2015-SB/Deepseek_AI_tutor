@@ -36,7 +36,7 @@ if question:
     #client call
     client = InferenceClient(
         provider="together",
-        api_key="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"
+        api_key="YOUR_API_KEY"
     )
 
     messages = [
